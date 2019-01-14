@@ -1,3 +1,3 @@
 export class Config {
-	static MAIN_HEADING: string = "My favorite videos";
+	static MAIN_HEADING: string = "Hello there";
 }
